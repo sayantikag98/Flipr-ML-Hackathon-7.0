@@ -13,7 +13,7 @@ This repository contains my submission for Flipr Hackathon 7.0 for the Machine L
 5. Data_final_answer_flipr.xlsx is the final predicted output file having the names of the 100 players and the predicted total runs scored by them in IPL season 2020.
 
 6. Solution_Sheet.pdf file contains the explaination of the model used here for prediction.
-
+##
 
 ## Description of the process followed in order to accomplish this task
 
