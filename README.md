@@ -2,17 +2,17 @@
 
 This repository contains my submission for Flipr Hackathon 7.0 for the Machine Learning Task. The following are the information about the files contained in this repository:
 
-# 1. Data.xlsx file contains train dataset on which model has to be trained, which contains parameters of IPL 2018 and total runs in the IPL 2019. It also contains test dataset, which contains parameters of IPL 2019, using which the total runs in IPL 2020 needs to be predicted.
+1. Data.xlsx file contains train dataset on which model has to be trained, which contains parameters of IPL 2018 and total runs in the IPL 2019. It also contains test dataset, which contains parameters of IPL 2019, using which the total runs in IPL 2020 needs to be predicted.
 
-# 2. Variable_Description.xlsx file contains the description of the various columns present in the data file.
+2. Variable_Description.xlsx file contains the description of the various columns present in the data file.
 
-# 3. Hackathon_7.0_ML_Guidelines.pdf contains the problem statement, objective of the problem statement and it also presents the context of the problem.
+3. Hackathon_7.0_ML_Guidelines.pdf contains the problem statement, objective of the problem statement and it also presents the context of the problem.
 
-# 4. Flipr_Hackathon_7_0_Machine_Learning_Task_16_10_2020.ipynb file contains the main code.
+4. Flipr_Hackathon_7_0_Machine_Learning_Task_16_10_2020.ipynb file contains the main code.
 
-# 5. Data_final_answer_flipr.xlsx is the final predicted output file having the names of the 100 players and the predicted total runs scored by them in IPL season 2020.
+5. Data_final_answer_flipr.xlsx is the final predicted output file having the names of the 100 players and the predicted total runs scored by them in IPL season 2020.
 
-# 6. Solution_Sheet.pdf file contains the explaination of the model used here for prediction.
+6. Solution_Sheet.pdf file contains the explaination of the model used here for prediction.
 
 
 ## Description of the process followed in order to accomplish this task
